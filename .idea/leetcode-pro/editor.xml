@@ -9,6 +9,7 @@
               <option name="contentPath" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/doc/content/[121]Best Time to Buy and Sell Stock.md" />
               <option name="frontendQuestionId" value="leetcode.com121" />
               <option name="host" value="leetcode.com" />
+              <option name="langSlug" value="java" />
               <option name="path" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/BestTimeToBuyAndSellStock.java" />
               <option name="titleSlug" value="best-time-to-buy-and-sell-stock" />
             </LeetcodeEditor>
@@ -20,6 +21,7 @@
               <option name="contentPath" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/doc/content/[121]Best Time to Buy and Sell Stock.md" />
               <option name="frontendQuestionId" value="leetcode.com121" />
               <option name="host" value="leetcode.com" />
+              <option name="langSlug" value="java" />
               <option name="path" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/BestTimeToBuyAndSellStock.java" />
               <option name="titleSlug" value="best-time-to-buy-and-sell-stock" />
             </LeetcodeEditor>
@@ -31,8 +33,20 @@
               <option name="contentPath" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/doc/content/[121]Best Time to Buy and Sell Stock.md" />
               <option name="frontendQuestionId" value="leetcode.com121" />
               <option name="host" value="leetcode.com" />
+              <option name="langSlug" value="java" />
               <option name="path" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/BestTimeToBuyAndSellStock.java" />
               <option name="titleSlug" value="best-time-to-buy-and-sell-stock" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/LongestCommonPrefix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/doc/content/[14]Longest Common Prefix.md" />
+              <option name="frontendQuestionId" value="leetcode.com14" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/LongestCommonPrefix.java" />
+              <option name="titleSlug" value="longest-common-prefix" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -42,6 +56,7 @@
               <option name="contentPath" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/doc/content/[121]Best Time to Buy and Sell Stock.md" />
               <option name="frontendQuestionId" value="leetcode.com121" />
               <option name="host" value="leetcode.com" />
+              <option name="langSlug" value="java" />
               <option name="path" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/BestTimeToBuyAndSellStock.java" />
               <option name="titleSlug" value="best-time-to-buy-and-sell-stock" />
             </LeetcodeEditor>
@@ -53,6 +68,7 @@
               <option name="contentPath" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/doc/content/[121]Best Time to Buy and Sell Stock.md" />
               <option name="frontendQuestionId" value="leetcode.com121" />
               <option name="host" value="leetcode.com" />
+              <option name="langSlug" value="java" />
               <option name="path" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/BestTimeToBuyAndSellStock.java" />
               <option name="titleSlug" value="best-time-to-buy-and-sell-stock" />
             </LeetcodeEditor>
@@ -64,6 +80,7 @@
               <option name="contentPath" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/doc/content/[121]Best Time to Buy and Sell Stock.md" />
               <option name="frontendQuestionId" value="leetcode.com121" />
               <option name="host" value="leetcode.com" />
+              <option name="langSlug" value="java" />
               <option name="path" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/BestTimeToBuyAndSellStock.java" />
               <option name="titleSlug" value="best-time-to-buy-and-sell-stock" />
             </LeetcodeEditor>
