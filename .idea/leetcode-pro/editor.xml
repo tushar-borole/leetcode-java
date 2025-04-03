@@ -39,6 +39,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/IsSubsequence.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/doc/content/[392]Is Subsequence.md" />
+              <option name="frontendQuestionId" value="leetcode.com392" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/IsSubsequence.java" />
+              <option name="titleSlug" value="is-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/LongestCommonPrefix.java">
           <value>
             <LeetcodeEditor>
@@ -57,6 +68,7 @@
               <option name="contentPath" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/doc/content/[151]Reverse Words in a String.md" />
               <option name="frontendQuestionId" value="leetcode.com151" />
               <option name="host" value="leetcode.com" />
+              <option name="langSlug" value="java" />
               <option name="path" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/ReverseWordsInAString.java" />
               <option name="titleSlug" value="reverse-words-in-a-string" />
             </LeetcodeEditor>
