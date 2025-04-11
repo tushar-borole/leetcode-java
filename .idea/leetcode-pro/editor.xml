@@ -61,6 +61,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/LengthOfLastWord.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/doc/content/[58]Length of Last Word.md" />
+              <option name="frontendQuestionId" value="leetcode.com58" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/LengthOfLastWord.java" />
+              <option name="titleSlug" value="length-of-last-word" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/LongestCommonPrefix.java">
           <value>
             <LeetcodeEditor>
