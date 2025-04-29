@@ -147,6 +147,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/RemoveDuplicatesFromSortedArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/doc/content/[26]Remove Duplicates from Sorted Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com26" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/RemoveDuplicatesFromSortedArray.java" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/ReverseWordsInAString.java">
           <value>
             <LeetcodeEditor>
@@ -165,6 +176,7 @@
               <option name="contentPath" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/doc/content/[20]Valid Parentheses.md" />
               <option name="frontendQuestionId" value="leetcode.com20" />
               <option name="host" value="leetcode.com" />
+              <option name="langSlug" value="java" />
               <option name="path" value="$PROJECT_DIR$/src/com/tushar/leetcode/editor/en/ValidParentheses.java" />
               <option name="titleSlug" value="valid-parentheses" />
             </LeetcodeEditor>
